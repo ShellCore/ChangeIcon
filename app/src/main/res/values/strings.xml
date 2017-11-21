@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Change Icon</string>
+
+    <string name="document_name_example">Document_name</string>
+    <string name="btn_wait">Wait</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_done">Done</string>
+    <string name="btn_error">Error</string>
+</resources>
